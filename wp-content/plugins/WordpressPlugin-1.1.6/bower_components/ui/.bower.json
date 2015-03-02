@@ -1,0 +1,14 @@
+{
+  "name": "ui",
+  "private": true,
+  "homepage": "https://github.com/EagerIO/UI",
+  "_release": "ce7a07ea36",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ce7a07ea36c90a293488a638e066df2c7ec68c4b"
+  },
+  "_source": "git@github.com:EagerIO/UI.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:EagerIO/UI.git"
+}
